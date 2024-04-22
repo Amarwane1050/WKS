@@ -21,7 +21,7 @@
 - GET /index.php?action=verifyEmail
 - GET /index.php?page=login
 - POST /index.php?action=identify
-- GET /index.php?page=logout
+- GET /index.php?action=logout
 
 ## USER
 
